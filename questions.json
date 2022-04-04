@@ -1,0 +1,60 @@
+{
+    "questions" :[
+        {
+            "question": "Aşağıdakilerden hangisi bir frontend developer için gerek duyulan bir dil değildir?",
+            "secenekA": "HTML",
+            "secenekB": "C++",
+            "secenekC": "CSS",
+            "secenekD": "JavaScript",
+            "cevap": "secenekB"
+        },
+        {
+            "question": "Aşağıdakilerden hangisi ile yazı fontunun büyüklüğü değiştirilir?",
+            "secenekA": "Font-size:",
+            "secenekB": "Font-family:",
+            "secenekC": "Text-decoration:",
+            "secenekD": "Justify-content:",
+            "cevap": "secenekA"
+        },
+        {
+            "question": "Aşağıdakilerden hangisi Javascript ile ekranda uyarı penceresi açan fonksiyondur?",
+            "secenekA": "document.write()",
+            "secenekB": "console.log()",
+            "secenekC": "document.querySelector()",
+            "secenekD": "alert()",
+            "cevap": "secenekD"
+        },
+        {
+            "question": "Aşağıdaki HTML etiketilerinden hangisi ile yazıyı kalın hale getirebiliriz?",
+            "secenekA": "<p></p>",
+            "secenekB": "<h3></h3>",
+            "secenekC": "<li></li>",
+            "secenekD": "<strong></strong>",
+            "cevap": "secenekD"
+        },
+        {
+            "question": "Aşağıdakilerden hangisi liste oluşturma etiketidir?",
+            "secenekA": "<li></li>",
+            "secenekB": "<h3></h3>",
+            "secenekC": "<p></p>",
+            "secenekD": "<strong></strong>",
+            "cevap": "secenekC"
+        },
+        {
+            "question": "Aşağıdakilerden hangisi ile Javascript dosyasını HTML dosyasına bağlarız?",
+            "secenekA": "<img></img>",
+            "secenekB": "<script src></script>",
+            "secenekC": "<radio></radio>",
+            "secenekD": "<tittle></tittle>",
+            "cevap": "secenekB"
+        },
+        {
+            "question": "Aşağıdaki HTML etiketlerinden hangisi ile link verilir?",
+            "secenekA": "<href></href>",
+            "secenekB": "<h1></h1>",
+            "secenekC": "<radio></radio>",
+            "secenekD": "<tittle></tittle>",
+            "cevap": "secenekA"
+        }
+    ]
+}
