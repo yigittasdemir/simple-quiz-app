@@ -1,7 +1,7 @@
 {
     "questions" :[
         {
-            "question": "Aşağıdakilerden hangisi bir frontend developer için gerek duyulan bir dil değildir?",
+            "question": "Aşağıdakilerden hangisi frontend development için gerek duyulan bir dil değildir?",
             "secenekA": "HTML",
             "secenekB": "C++",
             "secenekC": "CSS",
